@@ -1,5 +1,5 @@
 -PROBLEM 1
-Product java by 22BCS14608[poonam]
+Product by 22BCS14608[poonam]
 1)Sample Input :
 Product ID: 101
 Name: Laptop
