@@ -51,7 +51,7 @@ Price: 550.0
 
 -PROBLEM 3
 Sample Output:
-Student Information System by pushkar[22bcs17250]
+Student Information System by poonam[22bcs14608]
 
 Menu:
 1. Add Student
@@ -67,7 +67,7 @@ Menu:
 0. Exit
 Enter your choice: 1
 
-Enter Student Name: Alice
+Enter Student Name: Poonam
 Enter Student Age: 20
 Enter Student Roll Number: 101
 Student added successfully!
@@ -78,7 +78,7 @@ Menu:
 ...
 Enter your choice: 2
 
-Enter Teacher Name: Mr. Smith
+Enter Teacher Name: Mr. Mayank
 Enter Teacher Age: 40
 Enter Teacher Subject: Mathematics
 Teacher added successfully!
