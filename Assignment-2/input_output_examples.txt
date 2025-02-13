@@ -1,22 +1,22 @@
-##PROBLEM 1
+-PROBLEM 1
 
-###Sample Input :
+1)Sample Input :
 Product ID: 101
 Name: Laptop
 Price: 75000
 
-###Sample Output :
+2)Sample Output :
 Product Details:
 ID: 101
 Name: Laptop
 Price: 75000.0
 
 
-##PROBLEM 2
+-PROBLEM 2
 
-###Sample Output:
+2)Sample Output:
 
-Library Management System by Pushkar[22bcs17250]
+Library Management System by Poonam [22BCS14608]
 
 Fiction Book Details:
 Title: 1984
@@ -49,8 +49,8 @@ Author: Tara Westover
 Price: 550.0
 ---------------------------
 
-##PROBLEM 3
-###Sample Output:
+-PROBLEM 3
+Sample Output:
 Student Information System by pushkar[22bcs17250]
 
 Menu:
