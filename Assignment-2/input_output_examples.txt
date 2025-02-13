@@ -83,5 +83,4 @@ Enter Teacher Age: 40
 Enter Teacher Subject: Mathematics
 Teacher added successfully!
 
-... (and so on for display, search, update, removal)
 
